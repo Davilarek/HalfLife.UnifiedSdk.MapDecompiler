@@ -5,7 +5,7 @@ name: .NET Build
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "master", "add-github-actions-build" ]
   pull_request:
     branches: [ "master" ]
 
